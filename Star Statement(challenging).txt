@@ -1,0 +1,11 @@
+Challenging Project or Problems.
+SAMAN SHABAKE
+
+SITUATION: 
+There was a failed startup project; it was an idea about implementing a network inventory application, which can enable to works for large-scale networks, it had to find and analyze different kind of network’s devices, such as routers, network printers, different type of machines running on WINDOWS or LINUX; the project got failed once cause the team members which are working on that project couldn’t handle the large amounts of data, and also they couldn’t delivered the project at the specified time.
+
+ACTION:
+I had experience using WINPICAP from university lab’s course, and also I had experienced using different kind of network analyzing application, at first I read the existing documents and review the source codes they have from previous team, the source codes wasn’t document well and it was really hard to follow, I contacted to previous team members and I asked some questions to have better view about the project. I spent one week to understand the codes and two weeks do research about possible solutions, I found WMI Protocol is Useful for getting information from Windows Machine, SNMP for Network Devices, and NMAP as a useful tool for achieving the basic network inventory Goal, So I implement One Windows Service for server side, one Agent for working on client machines.
+
+Result:
+After I found the solution, the company start add more member to the project, I worked as a backend application developer and other team members worked as front-end developer showing the information that I collected and stored in db to the client. We delivered the project at the expected time and company sold that application to the big financial company and also some governmental company and got a lot of benefit, I do remember my first paycheck should be around 700K Toman but they gave me a bonus around 300K Toman which was around 40% of my actual salary, and also after 2 moth they increase my paycheck to 1M toman per month. 
